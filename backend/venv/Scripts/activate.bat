@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\FARHAN\real-time-fake-news-detection\backend\venv
+set VIRTUAL_ENV=C:\Users\prita\Downloads\real-time-fake-news-detection\real-time-fake-news-detection\backend\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
